@@ -1,2 +1,2 @@
 # SQL-project
-I developed this portfolio website using my SQL
+I developed this portfolio project using my SQL
